@@ -79,6 +79,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/Rai-shwith/LeetSolutions/tree/master/1894-merge-strings-alternately) |
 | [0392-is-subsequence](https://github.com/Rai-shwith/LeetSolutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
