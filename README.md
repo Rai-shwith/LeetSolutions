@@ -21,6 +21,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/0013-roman-to-integer) |
 | [0782-jewels-and-stones](https://github.com/Rai-shwith/LeetSolutions/tree/master/0782-jewels-and-stones) |
 | [0242-valid-anagram](https://github.com/Rai-shwith/LeetSolutions/tree/master/0242-valid-anagram) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
