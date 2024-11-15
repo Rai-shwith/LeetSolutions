@@ -43,6 +43,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/Rai-shwith/LeetSolutions/tree/master/0319-bulb-switcher) |
 | [0009-palindrome-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0009-palindrome-number) |
 ## Linked List
 |  |
@@ -84,5 +85,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/Rai-shwith/LeetSolutions/tree/master/1894-merge-strings-alternately) |
 | [0392-is-subsequence](https://github.com/Rai-shwith/LeetSolutions/tree/master/0392-is-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Rai-shwith/LeetSolutions/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
