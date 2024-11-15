@@ -54,5 +54,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Rai-shwith/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Miscellaneous
+|  |
+| ------- |
+| [3064-reshape-data-concatenate](https://github.com/Rai-shwith/LeetSolutions/tree/master/3064-reshape-data-concatenate) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
