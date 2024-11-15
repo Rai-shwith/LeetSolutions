@@ -29,5 +29,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
