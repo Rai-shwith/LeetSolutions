@@ -57,6 +57,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Miscellaneous
 |  |
 | ------- |
+| [3068-rename-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3068-rename-columns) |
 | [3069-change-data-type](https://github.com/Rai-shwith/LeetSolutions/tree/master/3069-change-data-type) |
 | [3070-fill-missing-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3070-fill-missing-data) |
 | [3064-reshape-data-concatenate](https://github.com/Rai-shwith/LeetSolutions/tree/master/3064-reshape-data-concatenate) |
