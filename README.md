@@ -75,5 +75,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rai-shwith/LeetSolutions/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Rai-shwith/LeetSolutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
