@@ -3,6 +3,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
 | [0001-two-sum](https://github.com/Rai-shwith/LeetSolutions/tree/master/0001-two-sum) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rai-shwith/LeetSolutions/tree/master/0485-max-consecutive-ones) |
@@ -44,5 +45,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rai-shwith/LeetSolutions/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
