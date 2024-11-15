@@ -33,5 +33,13 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0009-palindrome-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rai-shwith/LeetSolutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Rai-shwith/LeetSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
