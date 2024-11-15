@@ -3,6 +3,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [2350-find-closest-number-to-zero](https://github.com/Rai-shwith/LeetSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rai-shwith/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
 | [0001-two-sum](https://github.com/Rai-shwith/LeetSolutions/tree/master/0001-two-sum) |
