@@ -57,6 +57,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Miscellaneous
 |  |
 | ------- |
+| [3062-create-a-dataframe-from-list](https://github.com/Rai-shwith/LeetSolutions/tree/master/3062-create-a-dataframe-from-list) |
 | [3076-get-the-size-of-a-dataframe](https://github.com/Rai-shwith/LeetSolutions/tree/master/3076-get-the-size-of-a-dataframe) |
 | [3065-display-the-first-three-rows](https://github.com/Rai-shwith/LeetSolutions/tree/master/3065-display-the-first-three-rows) |
 | [3074-select-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3074-select-data) |
