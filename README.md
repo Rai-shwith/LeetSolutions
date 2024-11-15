@@ -57,6 +57,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Miscellaneous
 |  |
 | ------- |
+| [3071-drop-duplicate-rows](https://github.com/Rai-shwith/LeetSolutions/tree/master/3071-drop-duplicate-rows) |
 | [3075-drop-missing-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3075-drop-missing-data) |
 | [3067-modify-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3067-modify-columns) |
 | [3068-rename-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3068-rename-columns) |
