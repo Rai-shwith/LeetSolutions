@@ -43,6 +43,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Math
 |  |
 | ------- |
+| [2571-find-the-pivot-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/2571-find-the-pivot-integer) |
 | [0319-bulb-switcher](https://github.com/Rai-shwith/LeetSolutions/tree/master/0319-bulb-switcher) |
 | [0009-palindrome-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0009-palindrome-number) |
 ## Linked List
@@ -89,5 +90,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Rai-shwith/LeetSolutions/tree/master/0319-bulb-switcher) |
+## Prefix Sum
+|  |
+| ------- |
+| [2571-find-the-pivot-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/2571-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
