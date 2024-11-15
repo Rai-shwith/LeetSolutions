@@ -17,6 +17,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Rai-shwith/LeetSolutions/tree/master/0242-valid-anagram) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 ## Binary Search
 |  |
