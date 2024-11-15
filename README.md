@@ -10,6 +10,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rai-shwith/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [0020-valid-parentheses](https://github.com/Rai-shwith/LeetSolutions/tree/master/0020-valid-parentheses) |
 ## Stack
 |  |
@@ -49,5 +50,9 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
+## Simulation
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rai-shwith/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
 Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
