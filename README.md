@@ -3,6 +3,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Rai-shwith/LeetSolutions/tree/master/0055-jump-game) |
 | [2727-number-of-senior-citizens](https://github.com/Rai-shwith/LeetSolutions/tree/master/2727-number-of-senior-citizens) |
 | [2350-find-closest-number-to-zero](https://github.com/Rai-shwith/LeetSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rai-shwith/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
