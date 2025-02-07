@@ -18,7 +18,7 @@
 <ul>
 	<li><code>2 <= nums.length <= 10<sup>5</sup></code></li>
 	<li><code>-30 <= nums[i] <= 30</code></li>
-	<li>The product of any prefix or suffix of <code>nums</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
+	<li>The input is generated such that <code>answer[i]</code> is <strong>guaranteed</strong> to fit in a <strong>32-bit</strong> integer.</li>
 </ul>
 
 <p> </p>

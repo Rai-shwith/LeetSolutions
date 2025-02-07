@@ -1,34 +1,42 @@
-This repository is created by LEET2GIT for storing LeetCode solutions.
 <!---LeetCode Topics Start-->
+# LeetCode Topics
 ## Array
 |  |
 | ------- |
-| [0238-product-of-array-except-self](https://github.com/Rai-shwith/LeetSolutions/tree/master/0238-product-of-array-except-self) |
-| [0055-jump-game](https://github.com/Rai-shwith/LeetSolutions/tree/master/0055-jump-game) |
-| [2727-number-of-senior-citizens](https://github.com/Rai-shwith/LeetSolutions/tree/master/2727-number-of-senior-citizens) |
-| [2350-find-closest-number-to-zero](https://github.com/Rai-shwith/LeetSolutions/tree/master/2350-find-closest-number-to-zero) |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rai-shwith/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
-| [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
-| [0001-two-sum](https://github.com/Rai-shwith/LeetSolutions/tree/master/0001-two-sum) |
-| [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rai-shwith/LeetSolutions/tree/master/0485-max-consecutive-ones) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [0001-two-sum](https://github.com/Rai-shwith/LeetSolutions/tree/master/0001-two-sum) |
+| [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rai-shwith/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2350-find-closest-number-to-zero](https://github.com/Rai-shwith/LeetSolutions/tree/master/2350-find-closest-number-to-zero) |
+| [2727-number-of-senior-citizens](https://github.com/Rai-shwith/LeetSolutions/tree/master/2727-number-of-senior-citizens) |
+| [0055-jump-game](https://github.com/Rai-shwith/LeetSolutions/tree/master/0055-jump-game) |
+| [0238-product-of-array-except-self](https://github.com/Rai-shwith/LeetSolutions/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
 | ------- |
-| [0014-longest-common-prefix](https://github.com/Rai-shwith/LeetSolutions/tree/master/0014-longest-common-prefix) |
-| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rai-shwith/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [0020-valid-parentheses](https://github.com/Rai-shwith/LeetSolutions/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Rai-shwith/LeetSolutions/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Rai-shwith/LeetSolutions/tree/master/0782-jewels-and-stones) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rai-shwith/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [0014-longest-common-prefix](https://github.com/Rai-shwith/LeetSolutions/tree/master/0014-longest-common-prefix) |
+| [0392-is-subsequence](https://github.com/Rai-shwith/LeetSolutions/tree/master/0392-is-subsequence) |
+| [0013-roman-to-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/0013-roman-to-integer) |
+| [1894-merge-strings-alternately](https://github.com/Rai-shwith/LeetSolutions/tree/master/1894-merge-strings-alternately) |
+| [2727-number-of-senior-citizens](https://github.com/Rai-shwith/LeetSolutions/tree/master/2727-number-of-senior-citizens) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rai-shwith/LeetSolutions/tree/master/0020-valid-parentheses) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Rai-shwith/LeetSolutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Hash Table
 |  |
 | ------- |
-| [0013-roman-to-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/0013-roman-to-integer) |
-| [0782-jewels-and-stones](https://github.com/Rai-shwith/LeetSolutions/tree/master/0782-jewels-and-stones) |
-| [0242-valid-anagram](https://github.com/Rai-shwith/LeetSolutions/tree/master/0242-valid-anagram) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [0001-two-sum](https://github.com/Rai-shwith/LeetSolutions/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Rai-shwith/LeetSolutions/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/Rai-shwith/LeetSolutions/tree/master/0782-jewels-and-stones) |
+| [0013-roman-to-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/0013-roman-to-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -37,16 +45,23 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rai-shwith/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Rai-shwith/LeetSolutions/tree/master/0392-is-subsequence) |
+| [0055-jump-game](https://github.com/Rai-shwith/LeetSolutions/tree/master/0055-jump-game) |
 ## Sorting
 |  |
 | ------- |
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
+| [0242-valid-anagram](https://github.com/Rai-shwith/LeetSolutions/tree/master/0242-valid-anagram) |
+| [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
 ## Math
 |  |
 | ------- |
-| [2571-find-the-pivot-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/2571-find-the-pivot-integer) |
-| [0319-bulb-switcher](https://github.com/Rai-shwith/LeetSolutions/tree/master/0319-bulb-switcher) |
 | [0009-palindrome-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0009-palindrome-number) |
+| [0002-add-two-numbers](https://github.com/Rai-shwith/LeetSolutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/0013-roman-to-integer) |
+| [0319-bulb-switcher](https://github.com/Rai-shwith/LeetSolutions/tree/master/0319-bulb-switcher) |
+| [2571-find-the-pivot-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/2571-find-the-pivot-integer) |
 ## Linked List
 |  |
 | ------- |
@@ -59,6 +74,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
+| [0055-jump-game](https://github.com/Rai-shwith/LeetSolutions/tree/master/0055-jump-game) |
 ## Simulation
 |  |
 | ------- |
@@ -66,18 +82,18 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Miscellaneous
 |  |
 | ------- |
-| [3062-create-a-dataframe-from-list](https://github.com/Rai-shwith/LeetSolutions/tree/master/3062-create-a-dataframe-from-list) |
-| [3076-get-the-size-of-a-dataframe](https://github.com/Rai-shwith/LeetSolutions/tree/master/3076-get-the-size-of-a-dataframe) |
-| [3065-display-the-first-three-rows](https://github.com/Rai-shwith/LeetSolutions/tree/master/3065-display-the-first-three-rows) |
-| [3074-select-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3074-select-data) |
-| [3066-create-a-new-column](https://github.com/Rai-shwith/LeetSolutions/tree/master/3066-create-a-new-column) |
-| [3071-drop-duplicate-rows](https://github.com/Rai-shwith/LeetSolutions/tree/master/3071-drop-duplicate-rows) |
-| [3075-drop-missing-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3075-drop-missing-data) |
-| [3067-modify-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3067-modify-columns) |
-| [3068-rename-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3068-rename-columns) |
-| [3069-change-data-type](https://github.com/Rai-shwith/LeetSolutions/tree/master/3069-change-data-type) |
-| [3070-fill-missing-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3070-fill-missing-data) |
 | [3064-reshape-data-concatenate](https://github.com/Rai-shwith/LeetSolutions/tree/master/3064-reshape-data-concatenate) |
+| [3070-fill-missing-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3070-fill-missing-data) |
+| [3069-change-data-type](https://github.com/Rai-shwith/LeetSolutions/tree/master/3069-change-data-type) |
+| [3068-rename-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3068-rename-columns) |
+| [3067-modify-columns](https://github.com/Rai-shwith/LeetSolutions/tree/master/3067-modify-columns) |
+| [3075-drop-missing-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3075-drop-missing-data) |
+| [3071-drop-duplicate-rows](https://github.com/Rai-shwith/LeetSolutions/tree/master/3071-drop-duplicate-rows) |
+| [3066-create-a-new-column](https://github.com/Rai-shwith/LeetSolutions/tree/master/3066-create-a-new-column) |
+| [3074-select-data](https://github.com/Rai-shwith/LeetSolutions/tree/master/3074-select-data) |
+| [3065-display-the-first-three-rows](https://github.com/Rai-shwith/LeetSolutions/tree/master/3065-display-the-first-three-rows) |
+| [3076-get-the-size-of-a-dataframe](https://github.com/Rai-shwith/LeetSolutions/tree/master/3076-get-the-size-of-a-dataframe) |
+| [3062-create-a-dataframe-from-list](https://github.com/Rai-shwith/LeetSolutions/tree/master/3062-create-a-dataframe-from-list) |
 ## Trie
 |  |
 | ------- |
@@ -85,8 +101,8 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 ## Two Pointers
 |  |
 | ------- |
-| [1894-merge-strings-alternately](https://github.com/Rai-shwith/LeetSolutions/tree/master/1894-merge-strings-alternately) |
 | [0392-is-subsequence](https://github.com/Rai-shwith/LeetSolutions/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Rai-shwith/LeetSolutions/tree/master/1894-merge-strings-alternately) |
 ## Brainteaser
 |  |
 | ------- |
@@ -95,5 +111,7 @@ This repository is created by LEET2GIT for storing LeetCode solutions.
 |  |
 | ------- |
 | [2571-find-the-pivot-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/2571-find-the-pivot-integer) |
+| [0238-product-of-array-except-self](https://github.com/Rai-shwith/LeetSolutions/tree/master/0238-product-of-array-except-self) |
+
 <!---LeetCode Topics End-->
-Developed by <a href="https://github.com/Rai-shwith">Rai-shwith</a>
+Organized using <a href="https://github.com/Rai-shwith/LEET2GIT" target="_blank">LEET2GIT</a> to sync and structure the LeetCode solutions.
