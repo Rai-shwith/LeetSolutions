@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Rai-shwith/LeetSolutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0268-missing-number) |
 | [0009-palindrome-number](https://github.com/Rai-shwith/LeetSolutions/tree/master/0009-palindrome-number) |
 | [0002-add-two-numbers](https://github.com/Rai-shwith/LeetSolutions/tree/master/0002-add-two-numbers) |
