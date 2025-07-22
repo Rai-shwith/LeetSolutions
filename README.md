@@ -11,6 +11,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/Rai-shwith/LeetSolutions/tree/master/2586-longest-square-streak-in-an-array) |
 | [0001-two-sum](https://github.com/Rai-shwith/LeetSolutions/tree/master/0001-two-sum) |
 | [2245-destroying-asteroids](https://github.com/Rai-shwith/LeetSolutions/tree/master/2245-destroying-asteroids) |
+| [0014-longest-common-prefix](https://github.com/Rai-shwith/LeetSolutions/tree/master/0014-longest-common-prefix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rai-shwith/LeetSolutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2350-find-closest-number-to-zero](https://github.com/Rai-shwith/LeetSolutions/tree/master/2350-find-closest-number-to-zero) |
 | [2727-number-of-senior-citizens](https://github.com/Rai-shwith/LeetSolutions/tree/master/2727-number-of-senior-citizens) |
